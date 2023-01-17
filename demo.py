@@ -124,11 +124,13 @@ import model
 net = model.sPICTURE(None)
 net.load_state_dict(torch.load(model_path))
 net = net.cuda()
-A = sio.loadmat('Phantom_Data_Demo.mat')
+A1 = sio.loadmat('Phantom_Data_Demo1.mat')
+A2 = sio.loadmat('Phantom_Data_Demo2.mat')
+
 net.eval()
 Adic = {}
-Im2 = A['Im2'][:,:,320:-64,32:-32]
-Im1 = A['Im1'][:,:,320:-64,32:-32]
+Im2 = A2['Im2'][:,:,320:-64,32:-32]
+Im1 = A1['Im1'][:,:,320:-64,32:-32]
 s = Im1.shape
 up_size = [2048,512]
 Adic['input1'] = torch.from_numpy(up_sample_Data(Im2,up_size)).float().cuda()
