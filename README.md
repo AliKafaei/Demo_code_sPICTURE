@@ -14,7 +14,7 @@ You should get the followng results from the demo code.
 If you use this code, please cite [1],[2], and [3].
 
 ## References
-###[1] 
+### [1] 
 @article{tehrani2022lateral,
   title={Lateral Strain Imaging using Self-supervised and Physically Inspired Constraints in Unsupervised Regularized Elastography},
   author={Tehrani, Ali KZ and Ashikuzzaman, Md and Rivaz, Hassan},
@@ -22,7 +22,7 @@ If you use this code, please cite [1],[2], and [3].
   year={2022},
   publisher={IEEE}
 }
-###[2] 
+### [2] 
 @inproceedings{tehrani2021mpwc,
   title={MPWC-Net++: evolution of optical flow pyramidal convolutional neural network for ultrasound elastography},
   author={Tehrani, Ali KZ and Rivaz, Hassan},
@@ -32,7 +32,7 @@ If you use this code, please cite [1],[2], and [3].
   year={2021},
   organization={SPIE}
 }
-###[3]
+### [3]
 @inproceedings{hur2019iterative,
   title={Iterative residual refinement for joint optical flow and occlusion estimation},
   author={Hur, Junhwa and Roth, Stefan},
