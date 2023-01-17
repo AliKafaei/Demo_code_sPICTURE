@@ -6,7 +6,7 @@ The network architecture is MPWC-Net++ [2] which is a modified variant of PWC-Ne
 
 ## Results 
 You should get the followng results from the demo code.
-<div style="width: 50%; height: 50%">
+<div style="width: 40%; height: 40%">
   
  ![](https://github.com/AliKafaei/Demo_code_sPICTURE/blob/main/Axial_Strain.PNG)
   ![](https://github.com/AliKafaei/Demo_code_sPICTURE/blob/main/Lateral_Strain.PNG)
