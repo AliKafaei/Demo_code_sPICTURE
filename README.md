@@ -5,4 +5,10 @@ Demo code for Lateral Strain Imaging using Self-supervised and Physically Inspir
 The network architecture is MPWC-Net++ [2] which is a modified variant of PWC-Net irr [3]. Please follow the installation guide of original implementation of PWC-Net irr. 
 
 ## Results 
-![](https://github.com/AliKafaei/Demo_code_sPICTURE/blob/main/Axial_Strain.PNG |width=200)
+You should get the followng results from the demo code.
+<div style="width: 60%; height: 60%">
+  
+ ![](https://github.com/AliKafaei/Demo_code_sPICTURE/blob/main/Axial_Strain.PNG)
+  
+</div>
+
