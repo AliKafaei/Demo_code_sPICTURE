@@ -10,6 +10,9 @@ You should get the followng results from the demo code.
   
  ![](https://github.com/AliKafaei/Demo_code_sPICTURE/blob/main/Axial_Strain.PNG)
   ![](https://github.com/AliKafaei/Demo_code_sPICTURE/blob/main/Lateral_Strain.PNG)
+
+## Updates (2023-02-10)
+Networks weights trained on simulation data and using Local Normalized Cross Correlation (LNCC) as the data loss is added.  
 </div>
 If you use this code, please cite [1],[2], and [3].
 
